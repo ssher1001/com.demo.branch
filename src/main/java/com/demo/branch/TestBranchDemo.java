@@ -6,6 +6,9 @@ public class TestBranchDemo {
 	{
 
 		System.out.println("code commited by main branch");
+		
+		System.out.println("code commited by second-branch");
+
 	}
 
 }
